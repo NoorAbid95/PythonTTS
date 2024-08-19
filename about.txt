@@ -1,0 +1,15 @@
+- PyPDF is a free and open-source pure-python PDF library capable of retrieving text form a PDF file.
+
+
+- Google Text-To-Speech is a Python library which uses Google Translates text-to-speech API.
+- Picked gTTS because it is easy to use and concise.
+- Has the ability to change voice.
+
+
+
+- Things I want to add:
+1. Make it a webpage.
+2. Be able to upload any PDF document.
+3. Have a login/logout ability
+4. If logged in then be able to listen to all PDFs that you have uploaded.
+5. Be able to change the voice (not dire).
